@@ -1,0 +1,69 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master-EN.master.cs" Inherits="Aswan_Uni_Meetings.Master_EN" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>الأجتماعات الأكاديمية الخاصة بجامعة اسوان </title>
+    <link rel="stylesheet" href="CSS.css" />
+    <link rel="stylesheet" href="Font Awesome/css/all.css" />
+
+    <%--<script type="text/javascript">
+        function preback() { (window.history.forward()); }
+        setTimeout("preback()", 0);
+        window.onunload = function () { (null); }
+    </script>
+    <script type="text/javascript">
+        function reloadPage() {
+            window.location.reload()
+        }
+    </script>--%>
+
+    <%--<script>
+        function ShowPage() {
+            aspnetForm.target = "_blank";
+            setTimeout(function () {
+                aspnetForm.target = "_self";
+            }, 2000);
+        }
+    </script>--%>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        <%--<script>
+            function ShowPage() {
+                aspnetForm.target = "_blank";
+                setTimeout(function () {
+                    aspnetForm.target = "_self";
+                }, 2000);
+            }
+        </script>--%>
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server" target="_self">
+        <header class="header-en">
+            <%--<img src="img/CIC.JPG" />--%>
+            <img src="img/Euro.jpeg" />
+            <img src="img/uni.jpg" />
+            <img src="img/CIC.JPG" />
+            <%--<img src="img/Euro.jpeg" />--%>
+        </header>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+            <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+            <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+        </div>
+        <footer>
+
+            <img src="img/FooterUpdate.JPG" />
+            <div class="phar">
+                <%--<p>جميع الحقوق محفوظة لمركز المعلومات وشبكة الإتصالات - جامعة أسوان </p>--%>
+                <p> All rights reserved | Aswan-University </p>
+                <p>Academic System Resource Planning: A Fully-Automated Smart Campus (ASRP) 598757-EPP-1-2018-1-EG-EPPKA2-CBHE-JP </p>
+            </div>
+
+        </footer>
+    </form>
+</body>
+</html>

@@ -1,0 +1,36 @@
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\bin\Aswan Uni Meetings.dll.config
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\bin\Aswan Uni Meetings.dll
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\bin\Aswan Uni Meetings.pdb
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\bin\roslyn\csc.exe
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\bin\roslyn\csc.exe.config
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\bin\roslyn\csc.rsp
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\bin\roslyn\csi.exe
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\bin\roslyn\csi.rsp
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\bin\roslyn\System.AppContext.dll
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\bin\roslyn\System.Collections.Immutable.dll
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\bin\roslyn\System.IO.FileSystem.dll
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\bin\roslyn\System.Reflection.Metadata.dll
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\bin\roslyn\vbc.exe
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\bin\roslyn\vbc.exe.config
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\bin\roslyn\vbc.rsp
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\bin\roslyn\VBCSCompiler.exe
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\bin\roslyn\VBCSCompiler.exe.config
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\obj\Release\Aswan Uni Meetings.csprojAssemblyReference.cache
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\obj\Release\Aswan Uni Meetings.csproj.CoreCompileInputs.cache
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\obj\Release\Aswan Uni Meetings.csproj.CopyComplete
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\obj\Release\Aswan Uni Meetings.dll
+H:\Work\Meetings App\Aswan Uni Meetings\Aswan Uni Meetings\obj\Release\Aswan Uni Meetings.pdb

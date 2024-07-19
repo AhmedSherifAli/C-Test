@@ -1,9 +1,0 @@
-Arabic and English 
-
-[\u0600-\u065F\u066A-\u06EF\u06FA-\u06FFa-zA-Z\s]{2,25}
-
-[a-zA-Zء-ي]{2,25}
-
-Reset Password Link
-
-http://localhost:62145/Reset%20Password.aspx?Uid=%20f2f4a279-4d16-481e-8655-f5e646e5b423
